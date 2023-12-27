@@ -27,7 +27,7 @@ The project, as outlined in the `Project Problem To Be Solved.pdf` and `Project 
 3. **Understanding the PDFs**: Read through `Project Problem To Be Solved.pdf` and `Project Problem Solved.pdf` for contextual understanding of the statistical analysis.
 
 ## Authors
-- Simranjeet Singh
+- Simranjit Singh
 
 ## Acknowledgements
 Special thanks to the IS 665 Data Analytics course at NJIT for the project framework and datasets.
